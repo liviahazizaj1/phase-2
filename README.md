@@ -83,5 +83,5 @@ Users will use their web browsers to engage with the frontend components.
 - Database - The relational database management system (RDBMS) for organising and storing structured data about orders, products, appointments, users, and content will be MySQL.
 - Authentication and Authorization- To provide safe access control, JWT will be used for user authentication and authorization.
 It will be possible for users to sign up, log in, and safely manage their accounts.
-- Infrastructure - 
+- Infrastructure - Web servers,Hosting,Content delivery networks, Domain name systems, Database management system, Content management systems, Security measures and protocols, Backup and disaster recovery, Monitoring and analytics, Web development tools, Integrations with third-party services. 
 
